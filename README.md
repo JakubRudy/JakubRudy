@@ -1,5 +1,9 @@
-## Hi there 👋
+## JakubRudy
 
+Third-year student of Applied Informatics at the Lodz University of Technology
+
+![Statystyki GitHub](https://github-readme-stats.vercel.app/api?username=JakubRudy&show_icons=true&theme=radical)
+![Najczęstsze języki](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubRudy&layout=compact&theme=radical)
 <!--
 **JakubRudy/JakubRudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
