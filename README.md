@@ -1,5 +1,5 @@
 # Hi, I'm Jakub! 👋
-  **Third-year Applied Informatics Student @ Lodz University of Technology (TUL)** 🎓
+  **Third-year Applied Informatics Student <a href="https://p.lodz.pl/">Lodz University of Technology</a>**
 
 ### About Me
 
