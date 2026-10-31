@@ -1,23 +1,23 @@
-## JakubRudy
+# Hi, I'm Jakub! 👋
+  **Third-year Applied Informatics Student @ Lodz University of Technology (TUL)** 🎓
 
-Third-year student of Applied Informatics at the Lodz University of Technology
+### About Me
 
-![GitHub Streak](https://streak-stats.demolab.com?user=JakubRudy&theme=tokyonight)
+I’m currently working on academic projects in **Python & Web Development**
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JakubRudy&theme=tokyonight)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JakubRudy&theme=tokyonight)
+### Tech Stack & Tools
 
-<!--
-**JakubRudy/JakubRudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,linux,vscode&theme=dark" alt="Tech Stack" />
+</div>
 
-Here are some ideas to get you started:
+### GitHub Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JakubRudy&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JakubRudy&theme=tokyonight" height="165" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JakubRudy&theme=tokyonight" height="165" alt="Stats" />
+</div>
