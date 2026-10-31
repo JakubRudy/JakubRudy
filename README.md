@@ -2,9 +2,10 @@
 
 Third-year student of Applied Informatics at the Lodz University of Technology
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubRudy&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=JakubRudy&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubRudy&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JakubRudy&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JakubRudy&theme=tokyonight)
 
 <!--
 **JakubRudy/JakubRudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
