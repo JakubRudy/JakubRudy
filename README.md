@@ -19,5 +19,8 @@ I’m currently working on academic projects in **Python & Web Development**
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JakubRudy&theme=tokyonight" height="165" alt="Top Langs" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JakubRudy&theme=tokyonight" height="165" alt="Stats" />
+</div>
+
+<div align="center">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JakubRudy&theme=tokyonight" height="165" alt="Stats" />
 </div>
